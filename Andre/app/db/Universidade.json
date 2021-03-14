@@ -1,0 +1,25 @@
+{
+  "Universidade": [
+    {
+      "id": "1",
+      "Descricao": "Bolsa de valores",
+      "Data": "2021-05-19",
+      "Valor": 1200.5,
+      "Optativa": "Sim"
+    },
+    {
+      "id": "2",
+      "Descricao": "Matematica",
+      "Data": "2021-03-10",
+      "Valor": 1500,
+      "Optativa": "2"
+    },
+    {
+      "id": "3",
+      "Descricao": "Investimentos",
+      "Data": "2021-03-16",
+      "Valor": 1950,
+      "Optativa": "Não"
+    }
+  ]
+}
